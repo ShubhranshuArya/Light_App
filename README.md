@@ -1,16 +1,11 @@
-# touchstone_assignment
+# Light Controller App
 
-A new Flutter project.
+UI of Lights controlling app.
 
-## Getting Started
+## Snapshots
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+![first_screen](https://user-images.githubusercontent.com/77967955/139618364-86d0c808-c330-41b8-900a-dcdffc39c54a.PNG)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![second_screen](https://user-images.githubusercontent.com/77967955/139618373-6c665e4e-02c6-422a-a394-f16f9635479d.PNG)
